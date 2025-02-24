@@ -16,4 +16,5 @@ enum Type{
   HD =0;
   UHD =1;
   OLED=2;
+
 }
